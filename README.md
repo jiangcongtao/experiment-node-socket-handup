@@ -27,3 +27,8 @@ All outlook going DNS resolution traffic will be dropped
 
 ## Use throttling feature in Web Debugging Proxy Application (like Charles)
 - [https://www.charlesproxy.com/documentation/proxying/throttling/](https://www.charlesproxy.com/documentation/proxying/throttling/)
+
+
+## Reference
+
+- https://www.cnblogs.com/tiechui2015/p/10773271.html
