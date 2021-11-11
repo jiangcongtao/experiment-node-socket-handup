@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "abort-controller": "^3.0.0",
+    "node-fetch": "^2.6.1"
+  }
 }
